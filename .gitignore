@@ -1,0 +1,12 @@
+# Variables de entorno y claves privadas
+.env
+
+# Entorno virtual de Python
+venv/
+.venv/
+
+# Archivos de caché y bases de datos locales
+__pycache__/
+*.pyc
+db/
+
